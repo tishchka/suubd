@@ -1,0 +1,4 @@
+Oganes,BMSTU,2,Analysis,5,5,Algorithms,2,5,Discrete Maths,2,5
+Denis,MIPT,2,Algebra,2,5,Analysis,2,5,CS,2,5
+Anton,HSE,2,Algebra,2,5,Algorithms,2,5
+Arseniy,HSE,2,Algebra,2,5,Economics,2,5
